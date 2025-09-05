@@ -1,0 +1,61 @@
+.dados{
+    display: flex;
+    text-align: center;
+}
+
+.header{
+    border-style: solid;
+    text-align: center;
+    margin: auto;
+    margin-block-start: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.dados{
+    text-align: center;
+}
+
+.artigo{
+    text-indent: 100px;
+}
+
+.div-dados{
+    text-align: center;
+}
+
+.form-dados{
+    margin-block-start: 100px;
+    margin-block-end: 30px;
+}
+
+.form-recebe-dados {
+    margin: auto;
+    margin-top: 50px;
+    margin-block: auto;
+    margin-block-end: 100px;
+}
+
+.produto-camp{
+    margin-block-start: 20px;
+    margin-bottom: 10px;
+}
+
+.preco-camp{
+    margin-bottom: 10px;
+}
+
+.descricao-camp{
+    margin-bottom: 10px;
+    margin-block-end: 20px;
+}
+
+.buttons{
+
+}
+
+.button-enviar{
+    margin-right: 20px;
+    margin-block-end: 10px;
+}
